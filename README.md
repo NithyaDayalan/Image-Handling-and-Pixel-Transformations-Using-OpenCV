@@ -30,10 +30,12 @@ Display the original, lower contrast, and higher contrast images.
 Split the image (boy.jpg) into B, G, R components and display the channels
 
 ## Program Developed By :
-#### NAME: NITHYA D
-#### REGISTER NUMBER :212223240110
+```
+NAME: NITHYA D
+REGISTER NUMBER: 212223240110
+```
 
-  ### Ex. No. 01
+  #### Ex. No. 01
 
 #### 1. Read the image ('Eagle_in_Flight.jpg') using OpenCV imread() as a grayscale image.
 ```
@@ -212,46 +214,46 @@ plt.show()
 ```
 
 ## Output :
-- ### *i)* Read and Display an Image.  
-   1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
+- #### *i)* Read and Display an Image.  
+   ##### 1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
 
 ![image](https://github.com/user-attachments/assets/8fbee7a1-6682-4ebc-bf5d-0e99168fe414)
 
-  2.Save image as PNG and display:
+  ##### 2.Save image as PNG and display:
 
 ![image](https://github.com/user-attachments/assets/f3c7b81e-a1d3-47d8-8bce-41506c62019f)
 
-  3.Cropped image:
+  ##### 3.Cropped image:
 
 ![image](https://github.com/user-attachments/assets/6844ce30-4221-4a0f-baa4-ffb871f70048)
 
-  4.Resize and flip Horizontally:
+  ##### 4.Resize and flip Horizontally:
   
 ![image](https://github.com/user-attachments/assets/52f120d2-1e32-4f45-8ca6-30b834ada0d1)
 
-  5.Read 'Apollo-11-launch.jpg' and  Display the final annotated image:
+  ##### 5.Read 'Apollo-11-launch.jpg' and  Display the final annotated image:
 
 ![image](https://github.com/user-attachments/assets/f9f8af66-0811-4ef7-93dd-26fd825533b7)
 
-- **ii)** Adjust Image Brightness :-
-  #### 1.Create brighter and darker images and display:
+- #### **ii)** Adjust Image Brightness :-
+  ##### 1.Create brighter and darker images and display:
   <img width="950" height="224" alt="image" src="https://github.com/user-attachments/assets/f6aeeeb3-e912-46ae-a5b6-f5a5d3bd4afb" />
 
-- **iii)** Modify Image Contrast :-
-  #### 1.Modify contrast using scaling factors 1.1 and 1.2:
+- #### **iii)** Modify Image Contrast :-
+  ##### 1.Modify contrast using scaling factors 1.1 and 1.2:
   <img width="950" height="224" alt="image" src="https://github.com/user-attachments/assets/67f0e937-0f97-4891-9827-4eddac187357" />
 
-- **iv)** Generate Third Image Using Bitwise Operations:
-  #### 1.Split 'Boy.jpg' into B, G, R components and display:
+- #### **iv)** Generate Third Image Using Bitwise Operations:
+  ##### 1.Split 'Boy.jpg' into B, G, R components and display:
   <img width="950" height="224" alt="image" src="https://github.com/user-attachments/assets/de7bb95f-3ae4-4f87-ba0c-528d1d7bcfcc" />
 
-  #### 2.Merge the R, G, B channels and display:
+  ##### 2.Merge the R, G, B channels and display:
   <img width="639" height="229" alt="image" src="https://github.com/user-attachments/assets/c1fca351-d83b-4cfc-bed0-86324507c87c" />
   
-  #### 3.Split the image into H, S, V components and display:
+  ##### 3.Split the image into H, S, V components and display:
   <img width="950" height="224" alt="image" src="https://github.com/user-attachments/assets/e87672b4-543b-48c6-b6db-3b70a9fa18e9" />
 
-  #### 4.Merge the H, S, V channels and display:
+  ##### 4.Merge the H, S, V channels and display:
   <img width="639" height="229" alt="image" src="https://github.com/user-attachments/assets/d7c61945-3485-4b94-a8dd-14979f7645d4" />
   
 ## Result :
